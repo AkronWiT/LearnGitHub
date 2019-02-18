@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-   cout << "Hello World";
+
+   cout << "Hey What's Up? I am glad you came!";
+
+   cout << "Hello Cleveland";
+
    return 0;
 }

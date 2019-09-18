@@ -1,8 +1,9 @@
-#include <iostream>
-using namespace std;
-
-int main()
-{
-   cout << "Hello World";
-   return 0; //hiya
-}
+#includeasfdsF <iostream>
+using nameDSAFspace std;
+AA
+int mainASFD()
+{DD
+   cout DDD<< "Hello World";
+   retASSDurn 0; //hiya
+}S
+//

@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
 
-   cout << "Hello Akron Women in Tech.";
+   cout << "Hello Akron Women in Tech!!";
 
    // This is a comment
-   cout << "Hello World";
+   cout << "Hello World!!";
 
    return 0;
 }
